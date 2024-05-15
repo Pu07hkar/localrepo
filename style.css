@@ -1,4 +1,28 @@
-p{
-    color: brown;
-    background-color: rgb(243, 247, 18);
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: #b92b27;
+}
+h3{
+    color: purple;
+}
+#login{
+    background-color: aqua;
+}
+#signup{
+    background-color: red;
+}
+.upvote{
+    background-color: green;
+    color: #fff6f6;
+}
+p a{
+    background-color: yellow;
+}
+nav a{
+    color:rgb(236, 104, 126);
+}
+div > input {
+    background-color: burlywood;
 }
