@@ -1,1 +1,0 @@
-# this is my new repo in which i have leart how to puch the repo from the local to remote
